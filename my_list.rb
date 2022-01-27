@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative 'Enumerable'
+require_relative 'my_enumerable'
 
 # class MyList
 class Mylist
