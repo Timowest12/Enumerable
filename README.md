@@ -1,73 +1,44 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+## Morse decoder
 
-# Project Name
-
-> Description the project.
-
+In this project, we build a movie morse decoder app, using Ruby
+]
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Ruby
+- Morse
+- VScode
+- Rubocop
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
+If you want to use this repo as a template, you can do so; follow the instructions below.
 
 ### Usage
 
-### Run tests
-
-### Deployment
-
+Download it directly by ZIP, open the index file in a text editor, and you can change the content to match your own.
+CD into the root folder and run npm i(NodeJs and NPM required)
+run npm start to launch project on local server.
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Phelian23**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@phelian23](https://github.com/phelian23)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Timo Wester**
 
-## 🤝 Contributing
+- GitHub: [@githubhandle](https://github.com/Timowest12)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/timo-wester-6a0282a7/)
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./MIT) licensed.
