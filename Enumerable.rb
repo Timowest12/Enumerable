@@ -1,9 +1,9 @@
 module MyEnumerable
-    def my_all?
+    def all?
      
     end
   
-    def my_any?
+    def any?
       
     end
   
