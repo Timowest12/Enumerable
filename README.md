@@ -1,7 +1,7 @@
-## Morse decoder
+## Create-Enumerable
 
-In this project, we build a movie morse decoder app, using Ruby
-]
+In this project we created a enumerable using ruby
+
 
 ## Built With
 
