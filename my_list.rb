@@ -9,6 +9,7 @@ class Mylist
 
   def each(&block)
     @list.each(&block)
+  end
 end
 
 list = Mylist.new(1, 2, 3, 4)
